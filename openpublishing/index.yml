@@ -1,5 +1,5 @@
 theme: hyde
-layout: newindex
+layout: index
 learnmore:
   description: Keep your employees productive on their favorite apps and devices—and your company data protected. 
   background-image: "themes/Hyde/images/MSFT_DMABanners_Computer-Safe.png"
